@@ -226,17 +226,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 👤 **Author**  
 
-- **Your Name**  
-- [Your Email Address]  
-- [Your GitHub Profile](https://github.com/yourusername)  
+- **MohammadSaeed Rajabi**  
+- saeedrajabi.ce@gmail.com  
+- saeedce(https://github.com/yourusername)  
 ```
-
----
-
-### 🚀 **How to Use This README**  
-
-- Save the content as `README.md` in the root of your repository.  
-- Adjust the `Your Name`, `Email Address`, and `GitHub Profile` placeholders.  
-- Push the changes to your GitHub repository.  
-
-In case you need additional sections or clarifications, let me know! 😊📄
