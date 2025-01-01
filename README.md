@@ -1,7 +1,3 @@
-# custom-ubuntu-rpi3
-### 📄 **Enhanced README for Professional Git Project**  
-
-Below is a comprehensive and professional README file with detailed instructions for executing the project, configuration, differences between minimal, base, and custom versions, and best practices for clarity.
 
 # Custom Ubuntu Image for Raspberry Pi 3 using Yocto and Docker  
 
