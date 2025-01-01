@@ -3,9 +3,6 @@
 
 Below is a comprehensive and professional README file with detailed instructions for executing the project, configuration, differences between minimal, base, and custom versions, and best practices for clarity.
 
----
-
-```markdown
 # Custom Ubuntu Image for Raspberry Pi 3 using Yocto and Docker  
 
 This project creates a lightweight, optimized Ubuntu image for Raspberry Pi 3 using the **Yocto Project** and **Docker**. The goal is to improve boot time, minimize resource usage, and provide a tailored Linux distribution for embedded systems.  
@@ -68,19 +65,7 @@ Ensure you have the following installed:
    ```bash
    mkdir -p ~/yocto-raspberrypi3
    cd ~/yocto-raspberrypi3
-   ```
 
-2. **Pull the Docker container for Yocto:**  
-   ```bash
-   docker pull yocto-ubuntu
-   ```
-
-3. **Run the container and mount the workspace:**  
-   ```bash
-   docker run -it -v $(pwd):/workspace yocto-ubuntu
-   ```
-
----
 
 ### 🧩 **Step 2: Cloning Repositories**  
 
