@@ -200,7 +200,7 @@ git clone -b kirkstone git://git.openembedded.org/meta-raspberrypi
 
 ## 📊 **Results and Analysis**  
 
-- **Boot Time**: Reduced to 25 seconds.  
+- **Boot Time**: Reduced to 15 seconds.  
 - **RAM Usage**: 65-100 MB in idle state.  
 - **Custom Tools**: Nano, SSH, NetworkManager enabled.  
 
